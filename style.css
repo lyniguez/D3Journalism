@@ -35,21 +35,21 @@
 .axis-text {
   font-family: sans-serif;
   font-weight: bold;
-  fill: #551aaf;
+  fill: #e12424;
   text-anchor: middle;
 }
 
 .active {
   font-weight: bold;
   fill: #000;
-  fill: #551aaf;
+  fill: #e12424;
   transition: fill 0.3s ease-out;
   text-anchor: middle;
 }
 
 .inactive {
   font-weight: lighter;
-  fill: #551aaf;
+  fill: #cc6529;
   transition: fill 0.3s ease-out;
   text-anchor: middle;
 }
